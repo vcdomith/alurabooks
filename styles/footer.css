@@ -17,7 +17,7 @@ hr {
     }
 
     .lista-rodape {
-        display: block;
+    display: block;
     }
 
     .lista-rodape__item {
@@ -47,6 +47,7 @@ hr {
     }
 
     .lista-rodape {
+        display: block;
         border-left: 1px solid #858585;
         padding-left: 2em;
     }
